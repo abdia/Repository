@@ -1,1 +1,5 @@
-<?php phpinfo(); ?>
+<?php
+echo "<marquee>Test</marquee>";
+phpinfo(); 
+
+?>
